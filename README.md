@@ -1,1 +1,2 @@
 
+Weather App is an application developed in React that allows users to check the current weather forecast based on their location. The app uses a weather API to retrieve data about weather conditions, including temperature, humidity, wind speed, and other relevant information. The interface is simple and intuitive, allowing users to enter a city name or use GPS for automatic location recognition. The app also displays icons representing weather conditions, such as sun, clouds, or rain, and offers the ability to view the forecast for the upcoming days.
